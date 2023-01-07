@@ -270,10 +270,12 @@ footer {
   margin-bottom: 20px;
   border: 1px solid #ffffff;
   background: transparent;
+  padding-left: 20px;
+  outline: none;
+  color: #fff;
 }
 
 .subscribe input::placeholder {
-  padding-left: 20px;
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
