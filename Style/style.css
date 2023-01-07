@@ -89,17 +89,18 @@ section {
 }
 /* header */
 .banner {
-  background-image: url(../images/2.png);
+  background-image: url(../images/banner/banner1.png);
   width: 100%;
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .banner-content {
-  width: 100%;
+  width: 40%;
   max-width: 1140px;
-  margin: 0 auto;
   padding-top: 180px;
 }
 
