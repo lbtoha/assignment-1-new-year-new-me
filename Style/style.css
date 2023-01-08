@@ -101,6 +101,7 @@ section {
   max-width: 1140px;
   padding-top: 180px;
   text-align: right;
+  margin: 0 auto;
 }
 
 .banner-content .main-title {
